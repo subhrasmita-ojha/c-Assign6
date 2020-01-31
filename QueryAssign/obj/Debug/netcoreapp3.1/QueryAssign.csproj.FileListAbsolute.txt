@@ -1,0 +1,11 @@
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.exe
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.deps.json
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.runtimeconfig.json
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.runtimeconfig.dev.json
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.dll
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\bin\Debug\netcoreapp3.1\QueryAssign.pdb
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\obj\Debug\netcoreapp3.1\QueryAssign.csprojAssemblyReference.cache
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\obj\Debug\netcoreapp3.1\QueryAssign.AssemblyInfoInputs.cache
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\obj\Debug\netcoreapp3.1\QueryAssign.AssemblyInfo.cs
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\obj\Debug\netcoreapp3.1\QueryAssign.dll
+C:\Users\subhrasmita ojha\source\repos\QueryAssign\obj\Debug\netcoreapp3.1\QueryAssign.pdb
